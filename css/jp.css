@@ -63,3 +63,7 @@ ul.sub-tldr {
 ul.sub-tldr li {
     margin-bottom: 4px;
 }
+
+footer {
+    border-top: 1px solid #5C8595;
+}

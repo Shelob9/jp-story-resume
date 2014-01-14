@@ -25,52 +25,44 @@
     <favorites_list name="jp-story-resume" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5850126">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="full-width-pics.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="20" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="jp.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/jp.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="48" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-12.222222" vertical-offset="60" max-vertical-offset="1050">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.htm" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.htm">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="59" column="17" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.5214724" vertical-offset="460" max-vertical-offset="3405">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="articles.htm" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/articles.htm">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="27" column="4" selection-start="933" selection-end="2273" vertical-scroll-proportion="0.0863061" vertical-offset="330" max-vertical-offset="7485">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="full-width-pics.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="20" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jp.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/jp.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.9471831" vertical-offset="198" max-vertical-offset="1110">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="199" column="0" selection-start="13287" selection-end="14803" vertical-scroll-proportion="-5.0641026" vertical-offset="2590" max-vertical-offset="3405">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articles.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/articles.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="493" column="4" selection-start="11362" selection-end="12922" vertical-scroll-proportion="-28.083334" vertical-offset="6721" max-vertical-offset="7665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -81,9 +73,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/full-width-pics.css" />
-        <option value="$PROJECT_DIR$/css/jp.css" />
-        <option value="$PROJECT_DIR$/articles.htm" />
         <option value="$PROJECT_DIR$/index.htm" />
+        <option value="$PROJECT_DIR$/articles.htm" />
+        <option value="$PROJECT_DIR$/css/jp.css" />
       </list>
     </option>
   </component>
@@ -335,23 +327,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/jp.css">
+    <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-12.222222" vertical-offset="60" max-vertical-offset="1050">
+        <state line="199" column="0" selection-start="13287" selection-end="14803" vertical-scroll-proportion="-5.0641026" vertical-offset="2590" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articles.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="933" selection-end="2273" vertical-scroll-proportion="0.0863061" vertical-offset="330" max-vertical-offset="7485">
+        <state line="493" column="4" selection-start="11362" selection-end="12922" vertical-scroll-proportion="-28.083334" vertical-offset="6721" max-vertical-offset="7665">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.htm">
+    <entry file="file://$PROJECT_DIR$/css/jp.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="17" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.5214724" vertical-offset="460" max-vertical-offset="3405">
+        <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.9471831" vertical-offset="198" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
