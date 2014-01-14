@@ -8,6 +8,10 @@ body {
     padding: 100px 0;
     height: 450px !important;
     width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 .full-width-image-1 {
 	background: url(../img/sitting.jpg) no-repeat center center;
