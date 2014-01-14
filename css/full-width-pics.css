@@ -2,22 +2,33 @@ body {
 	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
 }
 
+.full-width-image {
+    background-size: cover;
+    text-align: center;
+    padding: 100px 0;
+    height: 450px !important;
+    width: 100%;
+}
 .full-width-image-1 {
-	background: url(http://lorempixel.com/g/1920/500/) no-repeat center center;
-	background-size: cover;
-	text-align: center;
-	padding: 100px 0;
+	background: url(../img/sitting.jpg) no-repeat center center;
+
 }
 
 .full-width-image-2 {
-	background: url(http://lorempixel.com/g/1920/450/) no-repeat center center;
-	background-size: cover;
-	text-align: center;
-	height: 450px;
+	background: url(../img/fractal.jpg) no-repeat center center;
+}
+
+.full-width-image-3 {
+    background: url(../img/pittsburgh.jpg) no-repeat center center;
 }
 
 .logo-wrapper {
 	display: inline-block;
+}
+.logo-wrapper img {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
 }
 
 .section {
