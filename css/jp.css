@@ -18,3 +18,48 @@ a {
 ul.publications, ul.specifics {
     list-style: none;
 }
+
+.tldr {
+    float:right;
+    width: 30%;
+    margin: 4px 8px 4px 0;
+    -moz-border-radius-bottomleft: 4px;
+    -moz-border-radius-bottomright: 4px;
+    -webkit-border-bottom-left-radius: 4px;
+    -webkit-border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    -moz-border-radius-topleft: 4px;
+    -moz-border-radius-topright: 4px;
+    -webkit-border-top-left-radius: 4px;
+    -webkit-border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #5C8595;
+    padding: 4px;
+}
+
+.tldr h3 {
+    margin: 4px inherit 0
+}
+
+.tldr .section-lead {
+    margin: 0 inherit;
+    font-size: 18px;
+}
+
+ul.tldr-highlights {
+    padding-left: 4px;
+    list-style: none;
+}
+ul.sub-tldr {
+    padding-left: 8px;
+    list-style: none;
+
+}
+
+ul.sub-tldr li {
+    margin-bottom: 4px;
+}
