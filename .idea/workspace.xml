@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jp.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="jp.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/jp.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.9471831" vertical-offset="198" max-vertical-offset="1110">
+            <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="-14.944445" vertical-offset="198" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -47,16 +47,16 @@
       <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="0" selection-start="13287" selection-end="14803" vertical-scroll-proportion="-5.0641026" vertical-offset="2590" max-vertical-offset="3405">
+            <state line="12" column="34" selection-start="460" selection-end="460" vertical-scroll-proportion="-2.3076923" vertical-offset="0" max-vertical-offset="3405">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="articles.htm" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="articles.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/articles.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="493" column="4" selection-start="11362" selection-end="12922" vertical-scroll-proportion="-28.083334" vertical-offset="6721" max-vertical-offset="7665">
+            <state line="12" column="34" selection-start="460" selection-end="460" vertical-scroll-proportion="0.20713463" vertical-offset="0" max-vertical-offset="7485">
               <folding />
             </state>
           </provider>
@@ -73,9 +73,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/full-width-pics.css" />
+        <option value="$PROJECT_DIR$/css/jp.css" />
         <option value="$PROJECT_DIR$/index.htm" />
         <option value="$PROJECT_DIR$/articles.htm" />
-        <option value="$PROJECT_DIR$/css/jp.css" />
       </list>
     </option>
   </component>
@@ -285,7 +285,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -293,7 +293,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15261473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15261473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -320,6 +320,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/jp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="-14.944445" vertical-offset="198" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="20" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
@@ -329,21 +336,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="0" selection-start="13287" selection-end="14803" vertical-scroll-proportion="-5.0641026" vertical-offset="2590" max-vertical-offset="3405">
+        <state line="12" column="34" selection-start="460" selection-end="460" vertical-scroll-proportion="-2.3076923" vertical-offset="0" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articles.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="493" column="4" selection-start="11362" selection-end="12922" vertical-scroll-proportion="-28.083334" vertical-offset="6721" max-vertical-offset="7665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/jp.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="0.9471831" vertical-offset="198" max-vertical-offset="1110">
+        <state line="12" column="34" selection-start="460" selection-end="460" vertical-scroll-proportion="0.20713463" vertical-offset="0" max-vertical-offset="7485">
           <folding />
         </state>
       </provider>
