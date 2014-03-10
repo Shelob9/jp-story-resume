@@ -29,25 +29,25 @@
       <file leaf-file-name="full-width-pics.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="20" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
+            <state line="1" column="20" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1140">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jp.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="jp.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/jp.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="-13.833333" vertical-offset="258" max-vertical-offset="1110">
+            <state line="43" column="19" selection-start="811" selection-end="811" vertical-scroll-proportion="0.6645367" vertical-offset="229" max-vertical-offset="1245">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.htm" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="217" column="43" selection-start="14948" selection-end="14948" vertical-scroll-proportion="0.81595093" vertical-offset="2590" max-vertical-offset="3405">
+            <state line="127" column="18" selection-start="5591" selection-end="5591" vertical-scroll-proportion="-23.291666" vertical-offset="1346" max-vertical-offset="3420">
               <folding />
             </state>
           </provider>
@@ -56,8 +56,19 @@
       <file leaf-file-name="articles.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/articles.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="495" column="0" selection-start="11389" selection-end="11480" vertical-scroll-proportion="-33.083332" vertical-offset="6631" max-vertical-offset="7560">
+            <state line="25" column="6" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="7575">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="21" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+              <folding>
+                <marker date="1389850165000" expanded="true" signature="22:485" placeholder="&lt;IfModule mod_expires.c&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,17 +84,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/css/full-width-pics.css" />
-        <option value="$PROJECT_DIR$/css/jp.css" />
         <option value="$PROJECT_DIR$/articles.htm" />
+        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/index.htm" />
+        <option value="$PROJECT_DIR$/css/jp.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="32" />
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="1054" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -111,7 +124,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,17 +200,24 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="options.lastSelected" value="Template Data Languages" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="PublishConfig">
+  <component name="PublishConfig" promptOnRemoteOverwrite="CHECK_TIMESTAMP" autoUpload="true" uploadOnSaveAll="true" notifyRemoteChanges="true">
     <servers>
       <server id="1a194175-9efe-4ea8-98dc-1fb6cf9ab315">
         <serverdata>
@@ -207,12 +226,30 @@
           </mappings>
         </serverdata>
       </server>
+      <server id="3f04f7d8-6b4f-4c6e-92a0-9af9cd59e9cb">
+        <serverdata />
+      </server>
       <server id="4adc5b78-b894-4518-adb7-d879d79423d1">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
+      </server>
+      <server id="57e38be5-1d72-438c-829a-1e40907d1de2">
+        <serverdata />
+      </server>
+      <server id="75590bf5-aafe-4e6f-8c02-30cf48db26f1">
+        <serverdata />
+      </server>
+      <server id="7bb9c2db-1711-4af8-a1cb-7b55856c7c4b">
+        <serverdata />
+      </server>
+      <server id="7c41b770-fc36-4f70-8ca4-3feb0b7dbd7d">
+        <serverdata />
+      </server>
+      <server id="7dee6695-d5e7-4163-86aa-c24d2e3ac561">
+        <serverdata />
       </server>
       <server id="8eef2223-8751-4095-adc4-858a7cd831ef">
         <serverdata>
@@ -228,6 +265,15 @@
           </mappings>
         </serverdata>
       </server>
+      <server id="ad7a75fa-f4d6-4f4b-b425-8ca97f60eb69">
+        <serverdata />
+      </server>
+      <server id="b41d3d97-2363-4c2e-bdae-a17cae1c02b6">
+        <serverdata />
+      </server>
+      <server id="b7056495-3d56-4561-9ded-1143cabe14b8">
+        <serverdata />
+      </server>
       <server id="e3d3556a-e3e9-48e8-98a0-ca53a0c60c12">
         <serverdata>
           <mappings>
@@ -235,7 +281,20 @@
           </mappings>
         </serverdata>
       </server>
+      <server id="e66c667a-059c-44af-b297-b7793b5613f3">
+        <serverdata />
+      </server>
+      <server id="e8cc02e8-f9ca-4acf-9cf8-8b5baf08f94c">
+        <serverdata />
+      </server>
       <server id="f34c5b3d-8a99-4130-b905-3da73910b763">
+        <serverdata>
+          <mappings>
+            <mapping deploy="public_html/resume" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="f404c1ff-516a-4aa5-9d7e-114849bcfeaf">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" />
@@ -301,28 +360,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <frame x="32" y="22" width="1920" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15261473" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977587" sideWeight="0.764526" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1696905" sideWeight="0.764526" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.235474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -337,17 +397,40 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/full-width-pics.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="8" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/jp.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="34" selection-start="1160" selection-end="1160" vertical-scroll-proportion="-13.833333" vertical-offset="258" max-vertical-offset="1110">
+        <state line="41" column="30" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="392" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="163" column="33" selection-start="10815" selection-end="10815" vertical-scroll-proportion="0.0" vertical-offset="2066" max-vertical-offset="3405">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articles.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="495" column="0" selection-start="11389" selection-end="11480" vertical-scroll-proportion="-33.083332" vertical-offset="6631" max-vertical-offset="7560">
+        <state line="25" column="6" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="7575">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding>
+            <marker date="1389850165000" expanded="true" signature="22:485" placeholder="&lt;IfModule mod_expires.c&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -358,9 +441,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/articles.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="947" selection-end="947" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="7575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="21" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <folding>
+            <marker date="1389850165000" expanded="true" signature="22:485" placeholder="&lt;IfModule mod_expires.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="217" column="43" selection-start="14948" selection-end="14948" vertical-scroll-proportion="0.81595093" vertical-offset="2590" max-vertical-offset="3405">
+        <state line="127" column="18" selection-start="5591" selection-end="5591" vertical-scroll-proportion="-23.291666" vertical-offset="1346" max-vertical-offset="3420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="19" selection-start="811" selection-end="811" vertical-scroll-proportion="0.6645367" vertical-offset="229" max-vertical-offset="1245">
           <folding />
         </state>
       </provider>

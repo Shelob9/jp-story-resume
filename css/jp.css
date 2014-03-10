@@ -20,9 +20,6 @@ ul.publications, ul.specifics {
 }
 
 .tldr {
-    float:right;
-    width: 30%;
-    margin: 4px 8px 4px 0;
     -moz-border-radius-bottomleft: 4px;
     -moz-border-radius-bottomright: 4px;
     -webkit-border-bottom-left-radius: 4px;
@@ -38,8 +35,20 @@ ul.publications, ul.specifics {
     border-width: 1px;
     border-style: solid;
     border-color: #5C8595;
-    padding: 4px;
+    padding: 8px;
+    width: 100%;
+
 }
+
+
+@media all and (min-width: 480px) {
+    .tldr{
+        float:right;
+        width: 30%;
+        margin: 4px 2px 4px 12px;
+    }
+}
+
 
 .tldr h3 {
     margin: 4px inherit 0
